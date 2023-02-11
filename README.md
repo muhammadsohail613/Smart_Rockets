@@ -14,7 +14,6 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/Zulqarnain-cc34/Smart_Rockets">
     <img src="rocket.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -23,8 +22,6 @@
   <p align="center">
     This is a physics simulation of the genetic algorithm's implementation on rockets.
     <br />
-    <a href="https://github.com/Zulqarnain-cc34/dotfiles"><strong>Explore the docs »</strong></a>
-    
   </p>
 </div>
 
@@ -46,7 +43,6 @@
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -105,10 +101,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
